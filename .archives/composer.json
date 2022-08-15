@@ -1,0 +1,18 @@
+{
+    "name": "lvjhn/test-discord-bot",
+    "autoload": {
+        "psr-4": {
+            "Lvjhn\\TestDiscordBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LJ S.A.",
+            "email": "lvjhn.mx@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^7.1",
+        "spatie/async": "^1.5"
+    }
+}
